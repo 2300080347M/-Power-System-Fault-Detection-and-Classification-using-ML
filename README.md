@@ -20,10 +20,9 @@ Note: Dataset used in this project is either synthetic/simulated or obtained fro
 
 - Python
 - Pandas, NumPy
-- Scikit-learn
 - Matplotlib, Seaborn (for visualization)
-- Flask or Streamlit (for deployment)
-- IBM Cloud or Localhost (for hosting)
+- Flask 
+- IBM Cloud 
 
 ## ML Model
 
