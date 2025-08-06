@@ -12,10 +12,12 @@ The internship's primary goal is to provide hands-on experience in emerging tech
 This 4-week program focused on providing practical skills in AI and Cloud Computing. The internship was structured with weekly virtual sessions, mentor guidance, and hands-on labs. The curriculum included:
 
 Week 1: Internship Orientation, IBM Cloud Registration, Artificial Intelligence.
-Week 2: Data Analytics concepts, Hands-On Labs, and Cloud EDA.
-Week 3 & 4: Building a Chat Bot, AI/ML experiments on the cloud, and a deep dive into AutoAI experiments on IBM Cloud.
 
-Successful completion required active participation, completion of at least two courses on IBM SkillsBuild, and the submission of a final project presentation. This internship was offered with no stipend.
+Week 2: Hands-On Labs, and IBM cloud
+
+Week 3 & 4: AI/ML experiments on the cloud, and a deep dive into AutoAI experiments on IBM Cloud.
+
+Successful completion required active participation, completion of at least two courses on IBM SkillsBuild and a project from given problem statements for certificate.
 
 
 # Power System Fault Detection and Classification
@@ -41,7 +43,6 @@ Note: Dataset used in this project is either synthetic/simulated or obtained fro
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn (for visualization)
-- Flask 
 - IBM Cloud 
 
 ## ML Model
